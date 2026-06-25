@@ -1,4 +1,4 @@
-# Hieee everyonee, I'm Ritika Dawadi 👋🧬💻
+# Hieee everyonee, I'm Ritika Dawadi 👋🧬
 
 I recently graduated with my **B.S. in Computer Science** with double minors in **Bioinformatics** and **Mathematics**. I’m passionate about using computational tools to answer biological questions, especially in areas involving **genomics, cancer biology, sequence analysis, and data-driven biomedical research**.
 
@@ -6,7 +6,7 @@ I love working at the intersection of **code + biology + data** — whether that
 
 ---
 
-## Some Technical Skills 🛠️
+## Some Technical Skills 
 
 ### I am sure I forgot a few 😅
 
@@ -24,9 +24,9 @@ I love working at the intersection of **code + biology + data** — whether that
 
 ---
 
-## Featured Projects 🚀
+## Featured Projects 
 
-### 🧬 G-Quadruplex SNP Research
+### G-Quadruplex SNP Research
 
 * Built a computational pipeline to identify clinically relevant **G-quadruplex motif mutations** in human cancer-associated genes.
 * Analyzed how SNPs in regulatory regions may affect **G-quadruplex stability** and sequence-level structural variation.
@@ -37,7 +37,7 @@ I love working at the intersection of **code + biology + data** — whether that
 ---
 
 
-### 🧪 Mi-Lipotrymase Research Project
+###  Mi-Lipotrymase Research Project
 
 * Used 15+ bioinformatics tools to annotate a novel hypothetical protein sequence.
 * Predicted functional domains, transmembrane regions, hydrophobicity patterns, and 3D protein structure.
@@ -46,7 +46,7 @@ I love working at the intersection of **code + biology + data** — whether that
 
 ---
 
-### 📚 StoryTeller — Data-Driven Reading Platform
+### StoryTeller — Data-Driven Reading Platform
 
 * Developed a full-stack reading platform with a content-based recommendation system.
 * Used TF-IDF, cosine similarity, and Truncated SVD to recommend books using real-world OpenLibrary API data.
