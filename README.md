@@ -2,25 +2,7 @@
 
 I recently graduated with my **B.S. in Computer Science** with double minors in **Bioinformatics** and **Mathematics**. I’m passionate about using computational tools to answer biological questions, especially in areas involving **genomics, cancer biology, sequence analysis, and data-driven biomedical research**.
 
-I love working at the intersection of **code + biology + data** — whether that means building bioinformatics pipelines, analyzing genomic variants, training machine learning models, or turning messy biological datasets into meaningful insights. 🧪📊
-
----
-
-## Some Technical Skills 
-
-### I am sure I forgot a few 😅
-
-**Programming:** Python, R, SQL, C++, JavaScript, TypeScript
-
-**Data Analysis:** Pandas, NumPy, Matplotlib, Jupyter Notebook, Excel, Statistical Analysis
-
-**Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, Logistic Regression, Random Forest, KNN, Cross-Validation
-
-**Bioinformatics:** Sequence Analysis, SNP Analysis, ClinVar, QGRS Mapper, bcftools, samtools, bedtools, BLAST, IGV, UCSC Genome Browser, NCBI
-
-**Web & Tools:** Git, GitHub, HTML/CSS, React, React Native, Django, Oracle DB
-
-**Wet Lab & Research Skills:** DNA/RNA Extraction, RT-PCR, Gel Electrophoresis, SDS-PAGE, Western Blotting, Tissue Culture, Literature Review, SOP Documentation
+I love working at the intersection of **code + biology + data** whether that means building bioinformatics pipelines, analyzing genomic variants, training machine learning models, or turning messy biological datasets into meaningful insights. 🧪📊
 
 ---
 
@@ -58,6 +40,24 @@ I love working at the intersection of **code + biology + data** — whether that
 **Tools:** Django, Vue, Python, TF-IDF, Truncated SVD, OpenLibrary API
 
 **Link:** https://github.com/ritikadawadi/StoryTeller 
+
+---
+
+## Some Technical Skills 
+
+### I am sure I forgot a few 😅
+
+**Programming:** Python, R, SQL, C++, JavaScript, TypeScript
+
+**Data Analysis:** Pandas, NumPy, Matplotlib, Jupyter Notebook, Excel, Statistical Analysis
+
+**Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, Logistic Regression, Random Forest, KNN, Cross-Validation
+
+**Bioinformatics:** Sequence Analysis, SNP Analysis, ClinVar, QGRS Mapper, bcftools, samtools, bedtools, BLAST, IGV, UCSC Genome Browser, NCBI
+
+**Web & Tools:** Git, GitHub, HTML/CSS, React, React Native, Django, Oracle DB
+
+**Wet Lab & Research Skills:** DNA/RNA Extraction, RT-PCR, Gel Electrophoresis, SDS-PAGE, Western Blotting, Tissue Culture, Literature Review, SOP Documentation
 
 ---
 
