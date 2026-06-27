@@ -34,6 +34,8 @@ I love working at the intersection of **code + biology + data** — whether that
 
 **Tools:** Python, ClinVar, bcftools, bedtools, QGRS Mapper, genomic sequence analysis
 
+**Poster:** https://drive.google.com/drive/folders/1JnOedGclYDIh-B-R9R9WxBNbKO-XRVgd?usp=sharing 
+
 ---
 
 
@@ -43,6 +45,8 @@ I love working at the intersection of **code + biology + data** — whether that
 * Predicted functional domains, transmembrane regions, hydrophobicity patterns, and 3D protein structure.
 
 **Tools:** AlphaFold, ESM-2, BLAST, ChimeraX, bioinformatics annotation tools
+
+**Link:** https://drive.google.com/drive/folders/11KfJXYe4xYs0Kk8UUDHXeqJTfkwx896u?usp=drive_link 
 
 ---
 
