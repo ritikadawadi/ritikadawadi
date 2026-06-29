@@ -44,24 +44,6 @@ I love working at the intersection of **code + biology + data** whether that mea
 
 ---
 
-## Some Technical Skills 
-
-### I am sure I forgot a few 😅
-
-**Programming:** Python, R, SQL, C++, JavaScript, TypeScript
-
-**Data Analysis:** Pandas, NumPy, Matplotlib, Jupyter Notebook, Excel, Statistical Analysis
-
-**Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, Logistic Regression, Random Forest, KNN, Cross-Validation
-
-**Bioinformatics:** Sequence Analysis, SNP Analysis, ClinVar, QGRS Mapper, bcftools, samtools, bedtools, BLAST, IGV, UCSC Genome Browser, NCBI
-
-**Web & Tools:** Git, GitHub, HTML/CSS, React, React Native, Django, Oracle DB
-
-**Wet Lab & Research Skills:** DNA/RNA Extraction, RT-PCR, Gel Electrophoresis, SDS-PAGE, Western Blotting, Tissue Culture, Literature Review, SOP Documentation
-
----
-
 
 ## Connect With Me 🌐 :))
 
