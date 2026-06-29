@@ -7,6 +7,7 @@ I love working at the intersection of **code + biology + data** whether that mea
 ---
 
 ## Featured Projects 
+#### Check out some of the projects pinned below :)
 
 ### G-Quadruplex SNP Research
 
@@ -61,17 +62,6 @@ I love working at the intersection of **code + biology + data** whether that mea
 
 ---
 
-## Current Interests ( YAY )
-
-* Computational biology
-* Cancer genomics
-* Bioinformatics pipelines
-* Biomedical data science
-* Genomic variant analysis
-* Machine learning for biological and clinical data
-* Research software development
-
----
 
 ## Connect With Me 🌐 :))
 
